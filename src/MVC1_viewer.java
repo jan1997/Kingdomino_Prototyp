@@ -16,7 +16,7 @@ public class MVC1_viewer extends PApplet
     float bdify = 0.0f;
     boolean overCard = false, locked = false;
     int gameScreen = 0;
-
+    int testOli=0;
     public void setModel(MVC1_model m)
     {
         model = m;
